@@ -95,4 +95,7 @@ app.get("/api/secret", (req, res) => {
 // Start server
 app.listen(PORT, () => {
   console.log(`VibeCheck API running at http://localhost:${PORT}`);
+feature/smash-counter
 });// Smash Feature
+});// API Routes Feature
+ main
